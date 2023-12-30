@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Dec 30 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update base.html ([@InitialXKO](https://github.com/InitialXKO))
+
+#### Authors: 1
+
+- [@InitialXKO](https://github.com/InitialXKO)
+
+---
+
 # v0.0.1 (Sat Dec 30 2023)
 
 :tada: This release contains work from a new contributor! :tada:
